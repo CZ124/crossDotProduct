@@ -1,6 +1,6 @@
 import math
 
-choice = input("Dot product: DP, Cross product: CP ")
+choice = input("Dot product: DP, Cross product: CP ") 
 
 coordinateOne = input("coordinate 1: ")
 coordinateTwo = input("coordinate 2: ")
